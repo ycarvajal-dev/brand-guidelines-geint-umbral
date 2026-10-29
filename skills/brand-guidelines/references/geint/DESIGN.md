@@ -145,9 +145,8 @@ rounded:
 - **Clip de marca:** `assets/geint/geint-animacion.mp4`, 6 s, 1920 × 1080, fondo hueso.
   1. 0,2 s: el isotipo aparece con un leve rebote (escala de 0,6 a 1) y la g se revela de abajo hacia arriba.
   2. 1,0 s: las letras de «geint» suben una a una, con 90 ms entre cada una.
-  3. 1,6 s: aparece una línea vertical terracota.
-  4. 1,9 s: entran las tres líneas del descriptor.
-  5. 5,4 s: todo se desvanece.
+  3. 1,9 s: entran las tres líneas del descriptor, sin línea separadora.
+  4. 5,4 s: todo se desvanece.
 - **Curva de animación:** cubic-bezier(.2, .8, .2, 1). Movimientos cortos y firmes, sin rebotes exagerados.
 
 ## Decisions Log
