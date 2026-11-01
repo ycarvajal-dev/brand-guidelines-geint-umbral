@@ -142,11 +142,10 @@ rounded:
 ## Motion
 
 - **Clip de marca:** `assets/umbral/umbral-animacion.mp4`, 6 s, 1920 × 1080, fondo petróleo.
-  1. 0,2 s: el arco crece desde el suelo, como una puerta que se abre.
-  2. 1,0 s: el punto cae y rebota una vez.
-  3. 1,5 s: una línea de luz latón recorre el nombre y lo revela de izquierda a derecha.
-  4. 2,6 s: entra el descriptor.
-  5. 5,4 s: todo se desvanece.
+  1. 0,2 s: el arco se dibuja de izquierda a derecha, siguiendo su trazo como el de una puerta.
+  2. 1,45 s: el punto aparece con un zoom (escala de 0 a 1 con un leve rebote).
+  3. 2,05 s: una sola barra de luz latón recorre la línea y revela UMBRAL y el descriptor, ambos en marfil.
+  4. 5,4 s: todo se desvanece.
 - **Curva de animación:** cubic-bezier(.2, .8, .2, 1) para entradas y cubic-bezier(.6, 0, .2, 1) para la revelación del nombre.
 
 ## Decisions Log
