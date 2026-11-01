@@ -143,12 +143,11 @@ rounded:
 ## Motion
 
 - **Clip de marca:** `assets/geint/geint-animacion.mp4`, 6 s, 1920 × 1080, fondo hueso.
-  1. 0,2 s: el isotipo terracota aparece con un zoom suave (escala de 0,15 a 1, leve sobreimpulso a 1,04).
+  1. 0,2 s: el isotipo terracota entra con zoom y rebote sutil (escala 0,3 → 1,07 → 0,97 → 1,015 → 1, en 1,1 s).
   2. 1,05 s: el techo cae y se posa sobre la g con un pequeño rebote.
   3. 1,25 s: las letras de «geint» suben una a una, con 90 ms entre cada una.
-  4. 2,05 s: entran las tres líneas del descriptor, sin línea separadora.
-  5. 3,3 s: guiño del techo: se eleva 4 px y vuelve a su lugar.
-  6. 5,4 s: todo se desvanece.
+  4. 2,05 s: entran las tres líneas del descriptor, sin línea separadora; a la vez (2,1 s) el techo hace su guiño: se eleva 4 px y vuelve a su lugar.
+  5. 5,4 s: todo se desvanece.
 - **Curva de animación:** cubic-bezier(.2, .8, .2, 1). Movimientos cortos y firmes, sin rebotes exagerados.
 
 ## Decisions Log
